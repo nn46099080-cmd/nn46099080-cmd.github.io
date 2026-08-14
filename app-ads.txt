@@ -1,4 +1,5 @@
 OWNERDOMAIN=nn46099080-cmd.github.io
+vungle.com, 6a7b0cdf275cd0a4eba3e796, DIRECT, c107d686becd2d77
 google.com, pub-8561157852710726, DIRECT, f08c47fec0942fa0
 admize.io, p_1875135418654156, DIRECT
 cauly.co.kr, 18712, DIRECT
