@@ -926,5 +926,5 @@ yieldmo.com,3761877318507634863,RESELLER,6a92c77cfc3d2258
 zetaglobal.net,512,RESELLER
 zmaticoo.com,5135199,RESELLER
 zmaticoo.com,5135535,RESELLER
-
 vungle.com, 6a7b0cdf275cd0a4eba3e796, DIRECT, c107d686becd2d77
+inmobi.com,856185a68c604aeebc7fc13217a2bf35,DIRECT,83e75a7ae333ca9d
